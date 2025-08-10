@@ -41,17 +41,3 @@ Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://
    ```
 
 5. Open the [Config file](./src/data/resume.tsx) and make changes
-
-# License
-
-Licensed under the [MIT license](https://github.com/dillionverma/portfolio/blob/main/LICENSE.md).
-
-
-    registration: {
-    regNo: "MCT20220661",
-    qualification: "MD(2022) - Muhimbili University Of Health And Allied Sciences",
-    status: "Registered and allowed to practise as MEDICAL DOCTOR (GP)",
-    verificationUrl: "https://mct.go.tz/oas/register/searchDoctors.php?key=qbfxyjt503ec86dsiuv91wg7a4hp2omznrk66180b28xt19",
-    logoUrl: "/mct.jpeg",
-    summary: `I am fully registered with the Medical Council of Tanganyika (MCT) as a Medical Doctor (Reg. No: MCT20220661), having qualified with an MD from Muhimbili University of Health and Allied Sciences in 2022. My registration status is active and in good standing, allowing me to practise as a General Practitioner. You can verify my credentials directly on the MCT website.`,
-  },
